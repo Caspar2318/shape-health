@@ -1,12 +1,14 @@
-body {
-  font-family: "Josefin Sans";
-  background-color: #fffafb;
-}
-
 * {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+}
+
+body {
+  font-family: "Josefin Sans";
+  /* background-color: #b792da; */
+  background: linear-gradient(55deg, #b0dff1, #7421a5);
+  background-repeat: no-repeat;
 }
 
 ::-webkit-scrollbar {
