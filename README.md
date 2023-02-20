@@ -1,6 +1,6 @@
 # shape-health (Fitness Exercises Guidance App with RapidAPI)
 
-website deployed through Honstinger, link as:
+website deployed through Honstinger, link as: https://shape-health.cxcspace.com/
 
 #npx create-react-app ./
 
